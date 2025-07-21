@@ -1,0 +1,5 @@
+¿A cuál de tus proyectos te gustaría añadir la síntesis de voz?
+a mi bot de discord en el comando de preguntas para que le dicte al usuario las opciones
+¿Qué ha sido lo más difícil para ti hoy? ¿Y lo más interesante?
+Lo más dificíl fue añadirle el que diga frases motivadoras pero no pude conseguir que solo diga las frases
+Lo más interesante fue el conocer las api y que la sintesis y discord se puedan juntar para activar los comando escribiendo en discord
